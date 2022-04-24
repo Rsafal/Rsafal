@@ -15,7 +15,7 @@ I'm a sophomore Electrical Engineering student at BIT Mesra, with fascination to
  
 [![GitHub Rsafal](https://img.shields.io/github/followers/Rsafal?label=follow&style=social)](https://github.com/Rsafal/Rsafal/tree/main)
 [![Linkedin: Rana safal](https://img.shields.io/badge/-Rana%20Safal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.https://www.linkedin.com/in/rana-safal/)
-[<img src="https://komarev.com/ghpvc/?username=bodhi996" alt="bodhi996" />](https://github.com/bodhi996)
+[<img src="https://komarev.com/ghpvc/?username=Rsafal" alt="Rsafal" />](https://github.com/Rsafal)
 
 </div>
   
