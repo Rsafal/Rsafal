@@ -19,9 +19,9 @@ I'm a sophomore Electrical Engineering student at BIT Mesra, with fascination to
 
 </div>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bodhi996&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rsafal&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
-<p align="center"> <img align="center" width="50%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en" alt="bodhi996" /> <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en&layout=compact" alt="bodhi996" />
+<p align="center"> <img align="center" width="50%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsafal&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en" alt="bodhi996" /> <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rsafal&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en&layout=compact" alt="bodhi996" />
 </p>
 
 
